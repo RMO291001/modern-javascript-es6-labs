@@ -34,8 +34,8 @@ This separation of theory, examples, and practice is intentional. It mirrors how
 
 | # | Topic | Video Timestamp | Status |
 |---|-------|----------------|--------|
-| 01 | Let and Const | 01:15 | Pending |
-| 02 | Template Strings | 10:33 | Pending |
+| 01 | Let and Const | 01:15 | Completed |
+| 02 | Template Strings | 10:33 | Completed |
 | 03 | Arrow Functions | 19:48 | Pending |
 | 04 | Rest Operator | 25:53 | Pending |
 | 05 | Spread Operator | 37:02 | Pending |
@@ -95,7 +95,7 @@ refactor:  clean up async/await solutions
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/modern-javascript-es6-labs.git
+git clone https://github.com/RMO291001/modern-javascript-es6-labs.git
 
 # Navigate into the project
 cd modern-javascript-es6-labs
